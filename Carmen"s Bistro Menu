@@ -1,0 +1,68 @@
+/* Body Styling */
+body {
+font-family: 'Open S*ns', sans-serif;
+font-size: 16*x;
+line-height: 1.6;
+lette*-spacing: 0.5px;
+margin: 0;
+* background-color: #f8f8f8;
+color: #333;
+}
+ 
+/* Header */
+header {
+background-color: #*b0000;
+color: white;
+text-*lign: center;
+padding: 30px;
+}
+ 
+/* H1 Styling */
+h1 {
+font-family: 'Playfair Display', serif;
+font-size: 3rem;
+font-weight: 700;
+text-transform: uppercase;
+margin-bottom: 10px;
+}
+ 
+/* Main Content */
+main {
+max-width: 900px;
+margin: 0 auto;
+padding: 20px;
+}
+ 
+/* Section Styling */
+section {
+margin-bottom: 30px;
+border-bottom: 2px solid #ccc;
+padding-bottom: 20px;
+}
+ 
+/* H2 Styling */
+h2 {
+color: #8b0000;
+border-bottom: 2px solid #8b0000;
+padding-bottom: 5px;
+}
+ 
+/* H3 Styling */
+h3 {
+font-style: italic;
+margin-bottom: 5px;
+}
+ 
+/* Price Styling */
+.price {
+font-weight: bold;
+color: #006400;
+}
+ 
+/* Footer */
+footer {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 20px;
+}
